@@ -115,9 +115,7 @@ See how we've delivered real ROI across healthcare, manufacturing, finance, and 
 
 # $100M in ROI
 
-### delivered for our clients
-
-*100 x 10*
+**delivered for our clients** · *100 x 10*
 
 </div>
 
