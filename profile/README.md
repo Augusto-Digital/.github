@@ -1,38 +1,44 @@
-<p align="center">
-  <img src="./logo.png" alt="Augusto Digital" height="100" />
-</p>
+<div align="center">
 
-<h1 align="center">Augusto Digital</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.png">
+  <img src="./logo-light.png" alt="Augusto Digital" height="90" />
+</picture>
 
-<p align="center">
-  <strong>AI acceleration for businesses that want results now.</strong>
-</p>
+<br />
+<br />
 
-<p align="center">
-  <a href="https://augusto.digital">augusto.digital</a>
-</p>
+### AI acceleration for businesses that want results now.
+
+[**augusto.digital**](https://augusto.digital) · [Book a call](https://augusto.digital/contact-augusto-digital/) · Grand Rapids, MI
+
+</div>
 
 ---
 
-We help clients grow by delivering measurable ROI through applied AI.
+We help clients grow by delivering measurable ROI through applied AI. We work **with** you — not for you — as a trusted extension of your team. We move fast, ship value from day one, and stay focused on outcomes that matter.
 
-We work **with** you — not for you — as a trusted extension of your team. We move fast, ship value from day one, and stay focused on outcomes that matter.
+## Who we work with
 
-### Who we work with
+Decision makers in profitable, stable, growth-oriented companies — leaders focused on innovating, facing the pressure of a fast-moving digital landscape and a tight talent market.
 
-Decision makers in profitable, stable, growth-oriented companies — leaders who are focused on innovating, and who feel the pressure of a fast-moving digital landscape and a tight talent market.
+## What makes us different
 
-### What makes us different
+|  | |
+|---|---|
+| **Applied AI & automation expertise** | We move AI from idea to adoption quickly, with improvements that are repeatable and measurable. |
+| **Accelerated delivery, real results** | Value from day one, with ROI you can point to. |
+| **A trusted extension of your team** | Collaboration, transparency, and shared ownership. |
 
-- **Applied AI & automation expertise** — we move AI from idea to adoption quickly, with improvements that are repeatable and measurable
-- **Accelerated delivery, real results** — value from day one, with ROI you can point to
-- **A trusted extension of your team** — collaboration, transparency, and shared ownership
+## Our proven process
 
-### Our proven process
+> **The Digital Pace Framework**
+>
+> **Rumble → Quick Wins → Accelerate**
+>
+> Find the right problems, ship measurable value early, compound it.
 
-**The Digital Pace Framework: Rumble → Quick Wins → Accelerate.** Find the right problems, ship measurable value early, compound it.
-
-### Our core values
+## Our core values
 
 - Deliver value early and often
 - Do the right thing
@@ -40,17 +46,20 @@ Decision makers in profitable, stable, growth-oriented companies — leaders who
 - Be a servant leader
 - Focus on outcomes that matter
 
-### Our 10-year target
+## Our 10-year target
 
-**$100M in ROI delivered for our clients. (100x10)**
+> **$100M in ROI delivered for our clients.**  *(100x10)*
 
-### Our guarantee
+## Our guarantee
 
 If you're not completely satisfied, you get our full attention until we make it right.
 
 ---
 
-<p align="center">
-  <a href="https://augusto.digital">Visit our website</a> ·
-  <a href="https://augusto.digital/contact-augusto-digital/">Book a call</a>
-</p>
+<div align="center">
+
+**Ready to accelerate?**
+
+[Visit our website](https://augusto.digital) · [Book a call](https://augusto.digital/contact-augusto-digital/)
+
+</div>
