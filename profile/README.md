@@ -58,7 +58,7 @@ We work *with* you — not for you — as a trusted extension of your team. We m
 
 ## Trusted with AI by
 
-Boston Children's Hospital · Mentavi Health · Advanced Architectural Products · MFP Automation Engineering · Fleetwood Group · Next Door Photos · Michigan Health Information Network · OrbitalRX · Harbor Steel · 1836 Ventures · and more.
+Boston Children's Hospital · Mentavi Health · Advanced Architectural Products · Westwater Group · MFP Automation Engineering · Fleetwood Group · Next Door Photos · Michigan Health Information Network · OrbitalRX · Harbor Steel · 1836 Ventures · and more.
 
 *See how we delivered for each — [read the AI case studies](https://augusto.digital/insights/ai-case-studies/).*
 
