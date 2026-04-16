@@ -5,12 +5,11 @@
   <img src="./logo-light.png" alt="Augusto Digital" height="90" />
 </picture>
 
-<br />
-<br />
+<br /><br />
 
-### AI acceleration for businesses that want results now.
+## AI acceleration for businesses that want results now.
 
-[**augusto.digital**](https://augusto.digital) · [Book a call](https://augusto.digital/contact-augusto-digital/) · Grand Rapids, MI
+[augusto.digital](https://augusto.digital) · [Book a call](https://augusto.digital/contact-augusto-digital/) · Grand Rapids, MI
 
 </div>
 
@@ -18,37 +17,112 @@
 
 We help clients grow by delivering measurable ROI through applied AI. We work **with** you — not for you — as a trusted extension of your team. We move fast, ship value from day one, and stay focused on outcomes that matter.
 
-## Who we work with
+## Industries we serve
 
-Decision makers in profitable, stable, growth-oriented companies — leaders focused on innovating, facing the pressure of a fast-moving digital landscape and a tight talent market.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Large Health Systems & Health Tech
+Hospitals, clinics, and digital health innovators.
+
+#### Manufacturers
+Regional and national producers seeking efficiency and scalability.
+
+#### Construction
+Regional and national builders modernizing operations and scaling project delivery.
+
+</td>
+<td width="50%" valign="top">
+
+#### Financial Institutions
+Banks, credit unions, and fintech companies.
+
+#### Nonprofits & Foundations
+Mission-driven organizations aiming to maximize impact.
+
+#### B2B Companies
+Growing businesses that need digital product and market acceleration.
+
+</td>
+</tr>
+</table>
 
 ## What makes us different
 
-|  | |
-|---|---|
-| **Applied AI & automation expertise** | We move AI from idea to adoption quickly, with improvements that are repeatable and measurable. |
-| **Accelerated delivery, real results** | Value from day one, with ROI you can point to. |
-| **A trusted extension of your team** | Collaboration, transparency, and shared ownership. |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### Applied AI & automation expertise
+
+We move AI from idea to adoption quickly, with improvements that are repeatable and measurable.
+
+</td>
+<td width="33%" valign="top">
+
+#### Accelerated delivery, real results
+
+Value from day one, with ROI you can point to.
+
+</td>
+<td width="33%" valign="top">
+
+#### A trusted extension of your team
+
+Collaboration, transparency, and shared ownership.
+
+</td>
+</tr>
+</table>
 
 ## Our proven process
 
-> **The Digital Pace Framework**
->
-> **Rumble → Quick Wins → Accelerate**
->
-> Find the right problems, ship measurable value early, compound it.
+**The Digital Pace Framework** — find the right problems, ship measurable value early, compound it.
 
-## Our core values
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-- Deliver value early and often
-- Do the right thing
-- Have a growth mindset
-- Be a servant leader
-- Focus on outcomes that matter
+### 1 · Rumble
+
+Discover the highest-leverage problems and align on what "great" looks like.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 2 · Quick Wins
+
+Ship the first wave of value fast — proof over promises.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 3 · Accelerate
+
+Compound the wins. Expand scope, increase velocity, deepen impact.
+
+</td>
+</tr>
+</table>
 
 ## Our 10-year target
 
-> **$100M in ROI delivered for our clients.**  *(100x10)*
+<div align="center">
+
+### $100M in ROI delivered for our clients
+
+**100 x 10**
+
+</div>
+
+## Our core values
+
+- **Deliver value early and often**
+- **Do the right thing**
+- **Have a growth mindset**
+- **Be a servant leader**
+- **Focus on outcomes that matter**
 
 ## Our guarantee
 
