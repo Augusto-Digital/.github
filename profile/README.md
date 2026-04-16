@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.png">
-  <img src="./logo-light.png" alt="Augusto Digital" height="80" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Augusto-Digital/.github/main/profile/logo-dark.png">
+  <img src="https://raw.githubusercontent.com/Augusto-Digital/.github/main/profile/logo-light.png" alt="Augusto Digital" height="80" />
 </picture>
 
 <br />
