@@ -5,7 +5,7 @@
   <img src="./logo-light.png" alt="Augusto Digital" height="80" />
 </picture>
 
-<br /><br />
+<br />
 
 ## AI acceleration for businesses that want results now.
 
