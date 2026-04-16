@@ -66,48 +66,17 @@ Boston Children's Hospital · Mentavi Health · Advanced Architectural Products 
 
 ## Industries we serve
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Large Health Systems & Health Tech** — Hospitals, clinics, and digital health innovators.
 
-#### Large Health Systems & Health Tech
+**Manufacturers** — Regional and national producers seeking efficiency and scalability.
 
-Hospitals, clinics, and digital health innovators.
+**Construction** — Regional and national builders modernizing operations and scaling project delivery.
 
-<br />
+**Financial Institutions** — Banks, credit unions, and fintech companies.
 
-#### Manufacturers
+**Nonprofits & Foundations** — Mission-driven organizations aiming to maximize impact.
 
-Regional and national producers seeking efficiency and scalability.
-
-<br />
-
-#### Construction
-
-Regional and national builders modernizing operations and scaling project delivery.
-
-</td>
-<td width="50%" valign="top">
-
-#### Financial Institutions
-
-Banks, credit unions, and fintech companies.
-
-<br />
-
-#### Nonprofits & Foundations
-
-Mission-driven organizations aiming to maximize impact.
-
-<br />
-
-#### B2B Companies
-
-Growing businesses that need digital product and market acceleration.
-
-</td>
-</tr>
-</table>
+**B2B Companies** — Growing businesses that need digital product and market acceleration.
 
 <br />
 
