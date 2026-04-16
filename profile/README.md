@@ -56,9 +56,11 @@ We work *with* you — not for you — as a trusted extension of your team. We m
 
 <br />
 
-## Trusted by
+## Trusted with AI by
 
-Corewell Health · Boston Children's Hospital · Wake Forest University · AWS · NTT DATA · Candela · Mentavi Health · MiHIN · Cloudticity · Macatawa Bank · UMassFive College Federal Credit Union · New Holland Brewing · Terryberry · and many more.
+Boston Children's Hospital · Corewell Health · Mentavi Health · Michigan Health Information Network · HealthBar · Coordinista · Candela · SEMMA Health · OrbitalRX · Advanced Architectural Products · ICE Cobotics · 1836 Ventures · and more.
+
+*See how we delivered for each — [read the AI case studies](https://augusto.digital/insights/ai-case-studies/).*
 
 <br />
 
