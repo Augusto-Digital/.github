@@ -111,13 +111,10 @@ See how we've delivered real ROI across healthcare, manufacturing, finance, and 
 
 ## Our 10-year target
 
-<div align="center">
-
-# $100M in ROI
-
-**delivered for our clients** · *100 x 10*
-
-</div>
+<p align="center">
+  <strong style="font-size: 2em;">$100M in ROI</strong><br />
+  delivered for our clients · <em>100 x 10</em>
+</p>
 
 <br />
 
