@@ -28,31 +28,7 @@ We work *with* you — not for you — as a trusted extension of your team. We m
 
 ## By the numbers
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 100+
-
-**Clients served**
-
-</td>
-<td width="33%" align="center">
-
-### 200+
-
-**Projects delivered**
-
-</td>
-<td width="33%" align="center">
-
-### 9+
-
-**Years delivering**
-
-</td>
-</tr>
-</table>
+**100+ clients served** · **200+ projects delivered** · **9+ years delivering**
 
 <br />
 
