@@ -54,12 +54,9 @@ Decision makers in profitable, stable, growth-oriented companies — leaders foc
 
 If you're not completely satisfied, you get our full attention until we make it right.
 
----
+## Let's talk
 
-<div align="center">
+Ready to accelerate? We'd love to hear what you're working on.
 
-**Ready to accelerate?**
-
-[Visit our website](https://augusto.digital) · [Book a call](https://augusto.digital/contact-augusto-digital/)
-
-</div>
+[![Book a call](https://img.shields.io/badge/Book_a_call-22B161?style=for-the-badge&logoColor=white)](https://augusto.digital/contact-augusto-digital/)
+[![Visit our website](https://img.shields.io/badge/Visit_our_website-122B3B?style=for-the-badge&logoColor=white)](https://augusto.digital)
