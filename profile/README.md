@@ -15,7 +15,11 @@
 
 ---
 
-We help clients grow by delivering measurable ROI through applied AI. We work **with** you — not for you — as a trusted extension of your team. We move fast, ship value from day one, and stay focused on outcomes that matter.
+We help clients grow by delivering measurable ROI through applied AI.
+
+We work **with** you — not for you — as a trusted extension of your team. We move fast, ship value from day one, and stay focused on outcomes that matter.
+
+<br />
 
 ## Industries we serve
 
@@ -24,57 +28,58 @@ We help clients grow by delivering measurable ROI through applied AI. We work **
 <td width="50%" valign="top">
 
 #### Large Health Systems & Health Tech
+
 Hospitals, clinics, and digital health innovators.
 
+<br />
+
 #### Manufacturers
+
 Regional and national producers seeking efficiency and scalability.
 
+<br />
+
 #### Construction
+
 Regional and national builders modernizing operations and scaling project delivery.
 
 </td>
 <td width="50%" valign="top">
 
 #### Financial Institutions
+
 Banks, credit unions, and fintech companies.
 
+<br />
+
 #### Nonprofits & Foundations
+
 Mission-driven organizations aiming to maximize impact.
 
+<br />
+
 #### B2B Companies
+
 Growing businesses that need digital product and market acceleration.
 
 </td>
 </tr>
 </table>
 
+<br />
+
 ## What makes us different
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### Applied AI & automation expertise
-
+**Applied AI & automation expertise.**
 We move AI from idea to adoption quickly, with improvements that are repeatable and measurable.
 
-</td>
-<td width="33%" valign="top">
-
-#### Accelerated delivery, real results
-
+**Accelerated delivery, real results.**
 Value from day one, with ROI you can point to.
 
-</td>
-<td width="33%" valign="top">
-
-#### A trusted extension of your team
-
+**A trusted extension of your team.**
 Collaboration, transparency, and shared ownership.
 
-</td>
-</tr>
-</table>
+<br />
 
 ## Our proven process
 
@@ -86,14 +91,14 @@ Collaboration, transparency, and shared ownership.
 
 ### 1 · Rumble
 
-Discover the highest-leverage problems and align on what "great" looks like.
+Discover the highest-leverage problems and align on what great looks like.
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 2 · Quick Wins
 
-Ship the first wave of value fast — proof over promises.
+Ship the first wave of value fast. Proof over promises.
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -106,15 +111,21 @@ Compound the wins. Expand scope, increase velocity, deepen impact.
 </tr>
 </table>
 
+<br />
+
 ## Our 10-year target
 
 <div align="center">
 
-### $100M in ROI delivered for our clients
+# $100M in ROI
 
-**100 x 10**
+### delivered for our clients
+
+*100 x 10*
 
 </div>
+
+<br />
 
 ## Our core values
 
@@ -124,9 +135,13 @@ Compound the wins. Expand scope, increase velocity, deepen impact.
 - **Be a servant leader**
 - **Focus on outcomes that matter**
 
+<br />
+
 ## Our guarantee
 
 If you're not completely satisfied, you get our full attention until we make it right.
+
+<br />
 
 ## Let's talk
 
