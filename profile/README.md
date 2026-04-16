@@ -62,7 +62,7 @@ Boston Children's Hospital · Mentavi Health · Advanced Architectural Products 
 We move AI from idea to adoption quickly, with improvements that are repeatable and measurable.
 
 **Accelerated delivery, real results.**
-Value from day one, with ROI you can point to.
+Value from day one, with an ROI you can point to.
 
 **A trusted extension of your team.**
 Collaboration, transparency, and shared ownership.
@@ -112,7 +112,7 @@ See how we've delivered real ROI across healthcare, manufacturing, finance, and 
 ## Our 10-year target
 
 <h3 align="center">$100M in ROI</h3>
-<p align="center">delivered for our clients · <em>100 x 10</em></p>
+<p align="center">delivered for our clients within the next 10 years · <em>100 x 10</em></p>
 
 <br />
 
