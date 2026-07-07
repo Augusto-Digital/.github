@@ -7,7 +7,7 @@
 
 <br />
 
-## AI acceleration for businesses that want results now.
+## Put AI to work for your people.
 
 [augusto.digital](https://augusto.digital) · [Book a call](https://augusto.digital/contact-augusto-digital/) · Grand Rapids, MI
 
@@ -20,15 +20,15 @@
 
 ---
 
-We help clients grow by delivering measurable ROI through applied AI.
+Augusto is an AI Activation Partner for mid-market companies. We work with organizations that are past the question of *whether* to pursue AI — and stuck on *how* to make it actually work, with their people, in their existing environment.
 
-We work *with* you — not for you — as a trusted extension of your team. We move fast, ship value from day one, and stay focused on outcomes that matter.
+We start by pinpointing where your people are spending energy that AI should be carrying. Then we build the Intelligence solution that changes that. The result is a team that can do what they were hired to do, instead of absorbing work a system should be handling.
 
 <br />
 
 ## By the numbers
 
-**100+ clients served** · **200+ projects delivered** · **9+ years delivering**
+**50%+ revenue from returning clients** · **10 years in business** · **Our first client is still a client today** · **Every engagement backed by a satisfaction guarantee**
 
 <br />
 
@@ -40,60 +40,76 @@ Boston Children's Hospital · Mentavi Health · Advanced Architectural Products 
 
 <br />
 
-## Industries we serve
+## Who we serve
 
-**Large Health Systems & Health Tech** — Hospitals, clinics, and digital health innovators.
+We're built for mid-market companies — typically $50M to $1B in revenue — navigating the gap between AI aspiration and AI that actually works. Large enough to feel the cost of AI that isn't delivering. Lean enough to move quickly with the right partner.
 
-**Manufacturers** — Regional and national producers seeking efficiency and scalability.
+<br />
 
-**Construction** — Regional and national builders modernizing operations and scaling project delivery.
+## What we offer
 
-**Financial Institutions** — Banks, credit unions, and fintech companies.
+Intelligence solutions across nine core functions, each built to activate AI where your people need it most.
 
-**Nonprofits & Foundations** — Mission-driven organizations aiming to maximize impact.
+<table>
+<tr>
+<td align="center"><strong>Finance Intelligence</strong></td>
+<td align="center"><strong>Revenue Intelligence</strong></td>
+<td align="center"><strong>Marketing Intelligence</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>HR Intelligence</strong></td>
+<td align="center"><strong>Operations Intelligence</strong></td>
+<td align="center"><strong>Company Intelligence</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>IT Intelligence</strong></td>
+<td align="center"><strong>Security Intelligence</strong></td>
+<td align="center"><strong>Engineering Intelligence</strong></td>
+</tr>
+</table>
 
-**B2B Companies** — Growing businesses that need digital product and market acceleration.
+Sometimes that means building from the ground up. Sometimes it means integrating the right platform into your environment. What stays constant is that we own it — from implementation through evolution.
 
 <br />
 
 ## What makes us different
 
-**Applied AI & automation expertise.**
-We move AI from idea to adoption quickly, with improvements that are repeatable and measurable.
+**We lead with your people, not the technology.**
+Our job is to amplify what your team can achieve, not replace who they are. Every solution is designed around the people who will use it.
 
-**Accelerated delivery, real results.**
-Value from day one, with an ROI you can point to.
+**We diagnose before we build.**
+Every engagement starts with understanding your environment and where AI activates first — not a scope of work.
 
-**A trusted extension of your team.**
-Collaboration, transparency, and shared ownership.
+**We deliver proof before asking for a larger bet.**
+Small enough to say yes to. Big enough to show you exactly what's possible.
 
 <br />
 
-## Our proven process
+## How we work
 
-**The Digital Pace Framework** — find the right problems, ship measurable value early, compound it.
+Diagnose before building. Deliver proof before asking for a larger bet. Stand behind the work.
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 1 · Rumble
+### 1 · The Rumble
 
-Discover the highest-leverage problems and align on what great looks like.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 2 · Quick Wins
-
-Ship the first wave of value fast. Proof over promises.
+A two-week, fixed-price working session that maps where AI activates first across your business. You walk away with a prioritized roadmap and a quick win ready to build.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 3 · Accelerate
+### 2 · The Scale of Win
 
-Compound the wins. Expand scope, increase velocity, deepen impact.
+Coming out of the Rumble, you choose the scale of engagement that fits your priority and readiness — and we build the wins we identified together.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 3 · The Guarantee
+
+Every ninety days we check in on results, ROI, and risks. If it's not working, we fix it — at no additional cost.
 
 </td>
 </tr>
@@ -128,13 +144,13 @@ See how we've delivered real ROI across healthcare, manufacturing, finance, and 
 
 ## Our guarantee
 
-If you're not completely satisfied, you get our full attention until we make it right.
+Every Augusto engagement is backed by a satisfaction guarantee. If it's not working, we fix it — at no additional cost. It's how we remove the fear of being abandoned and build partnerships that compound over time.
 
 <br />
 
 ## Join us
 
-We're always looking for people who share our values and want to help clients grow through applied AI.
+We're always looking for people who share our values and want to put AI to work for the people inside great mid-market companies.
 
 [![View open roles](https://img.shields.io/badge/View_open_roles-0989B1?style=for-the-badge&logoColor=white)](https://augusto.digital/careers/)
 
@@ -142,7 +158,7 @@ We're always looking for people who share our values and want to help clients gr
 
 ## Let's talk
 
-Ready to accelerate? We'd love to hear what you're working on.
+Put AI to work for your people. It starts with a Rumble — a two-week working session at a fixed price that gives you a prioritized roadmap and a quick win ready to build. Small enough to say yes to. Big enough to show you exactly what's possible.
 
 [![Book a call](https://img.shields.io/badge/Book_a_call-22B161?style=for-the-badge&logoColor=white)](https://augusto.digital/contact-augusto-digital/)
 [![Visit our website](https://img.shields.io/badge/Visit_our_website-122B3B?style=for-the-badge&logoColor=white)](https://augusto.digital)
