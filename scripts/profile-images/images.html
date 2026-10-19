@@ -27,9 +27,11 @@ html,body{margin:0; padding:0; background:transparent}
 #size{display:none}
 
 /* Hero banner: the homepage Ask on its dot field, framed as a band. The
-   dots fade out under the words (the grid is kept clear of text). */
+   dots fade out under the words (the grid is kept clear of text).
+   700px is the org page's README column on desktop; on a 375px phone the
+   column is 277px, so the 32px line below lands at 12.7px (the 12px floor). */
 .banner{
-  box-sizing:border-box; width:880px; height:340px; border-radius:12px;
+  box-sizing:border-box; width:700px; height:300px; border-radius:12px;
   display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;
   border:1px solid var(--hair);
   background:
@@ -46,7 +48,7 @@ html,body{margin:0; padding:0; background:transparent}
     var(--ink);
   color:var(--bone);
 }
-h1{margin:0; font-family:var(--serif); font-weight:600; font-size:76px; line-height:1.03;
+h1{margin:0; font-family:var(--serif); font-weight:600; font-size:68px; line-height:1.03;
   letter-spacing:normal; font-variation-settings:"opsz" 20; position:relative; z-index:0}
 h1 > span{display:block; white-space:nowrap}
 .hl{position:relative; white-space:nowrap}
@@ -56,7 +58,7 @@ h1 > span{display:block; white-space:nowrap}
    words turn Haze. A swash behind Bone letters would fail (Bone on Haze). */
 .dark .hl{color:var(--haze)}
 .dark .hl-swash{display:none}
-.for{margin:calc(1.25rem + .06 * 76px) 0 0; font-family:var(--serif); font-weight:300; font-size:32px;
+.for{margin:calc(1.25rem + .06 * 68px) 0 0; font-family:var(--serif); font-weight:300; font-size:32px;
   line-height:1.25; letter-spacing:normal; font-variation-settings:"opsz" 20}
 
 /* Buttons, per components.md. fill = .btn--fill, Ember with an Ink label. */
