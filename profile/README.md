@@ -8,8 +8,8 @@
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Augusto-Digital/.github/main/profile/banner-dark.png">
-  <img src="https://raw.githubusercontent.com/Augusto-Digital/.github/main/profile/banner-light.png" alt="Put AI to work for your people. For $50M - $1B+ organizations." width="880" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Augusto-Digital/.github/main/profile/banner-dark.png?v=2">
+  <img src="https://raw.githubusercontent.com/Augusto-Digital/.github/main/profile/banner-light.png?v=2" alt="Put AI to work for your people. For $50M - $1B+ organizations." width="700" />
 </picture>
 
 <br /><br />
