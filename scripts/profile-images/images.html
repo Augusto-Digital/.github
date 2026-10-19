@@ -1,0 +1,137 @@
+<!doctype html>
+<!--
+  Source for the brand images on the public org profile (profile/README.md).
+  GitHub strips CSS and fonts from a README, so anything set in the 2026
+  brand's faces or colours has to arrive as a picture. scripts/render-profile-images.sh
+  opens this page once per image (?img=…&mode=…) and screenshots #stage.
+
+  Values come from the augusto-brand plugin: web-tokens.css for the tokens,
+  augusto-brand-guide's homepage reference for the hero, the swash and the
+  buttons. Change copy here, then re-render; never edit the PNGs by hand.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Profile images</title>
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300&family=Instrument+Sans:wght@400;500;600;700&family=Chivo+Mono:wght@400;500;700&display=block");
+
+:root{
+  --bone:#F0EFEB; --ink:#053B47; --ember:#FF8340; --haze:#DECEF9; --sage:#95B1B3;
+  --olive:#686111; --hair:#BDB9B2;
+  --serif:"Source Serif 4",Georgia,serif;
+  --sans:"Instrument Sans",Arial,sans-serif;
+}
+html,body{margin:0; padding:0; background:transparent}
+#stage{display:inline-block; vertical-align:top}
+#size{display:none}
+
+/* Hero banner: the homepage Ask on its dot field, framed as a band. The
+   dots fade out under the words (the grid is kept clear of text). */
+.banner{
+  box-sizing:border-box; width:880px; height:340px; border-radius:12px;
+  display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;
+  border:1px solid var(--hair);
+  background:
+    radial-gradient(ellipse 60% 66% at 50% 50%, var(--bone) 50%, transparent 100%),
+    radial-gradient(circle, color-mix(in srgb, var(--sage) 50%, var(--bone)) 1.4px, transparent 1.9px) 50% 50% / 26px 26px,
+    var(--bone);
+  color:var(--ink);
+}
+.dark .banner{
+  border-color:var(--ink);
+  background:
+    radial-gradient(ellipse 60% 66% at 50% 50%, var(--ink) 50%, transparent 100%),
+    radial-gradient(circle, color-mix(in srgb, var(--sage) 34%, var(--ink)) 1.4px, transparent 1.9px) 50% 50% / 26px 26px,
+    var(--ink);
+  color:var(--bone);
+}
+h1{margin:0; font-family:var(--serif); font-weight:600; font-size:76px; line-height:1.03;
+  letter-spacing:normal; font-variation-settings:"opsz" 20; position:relative; z-index:0}
+h1 > span{display:block; white-space:nowrap}
+.hl{position:relative; white-space:nowrap}
+.hl-swash{position:absolute; left:-.06em; width:calc(100% + .12em); top:.14em; height:.86em; z-index:-1;
+  fill:var(--haze); transform:rotate(-.6deg)}
+/* On Ink the swash gives way to the mark rule (.band-ink .mark): the two
+   words turn Haze. A swash behind Bone letters would fail (Bone on Haze). */
+.dark .hl{color:var(--haze)}
+.dark .hl-swash{display:none}
+.for{margin:calc(1.25rem + .06 * 76px) 0 0; font-family:var(--serif); font-weight:300; font-size:32px;
+  line-height:1.25; letter-spacing:normal; font-variation-settings:"opsz" 20}
+
+/* Buttons, per components.md. fill = .btn--fill, Ember with an Ink label. */
+.btn{box-sizing:border-box; display:inline-flex; align-items:center; gap:18px; height:48px; padding:0 1rem;
+  font-family:var(--sans); font-weight:600; font-size:.875rem; line-height:1; white-space:nowrap; border-radius:4px}
+.btn.hero{height:56px; padding:0 1.5rem; font-size:1.0625rem}
+.btn svg{width:26px; height:8px; flex:none}
+.fill{background:var(--ember); color:var(--ink)}
+/* solid = .btn--dark: Ink with a Bone label, the secondary that still reads
+   on GitHub's dark theme (one file serves both themes; see the README note). */
+.solid{background:var(--ink); color:var(--bone)}
+
+/* Domain marks: Olive on light, Sage on dark. */
+.icon{display:block; width:24px; height:24px; color:var(--olive)}
+.dark .icon{color:var(--sage)}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <filter id="f-rough" x="-5%" y="-50%" width="110%" height="200%">
+    <feTurbulence type="fractalNoise" baseFrequency=".045 .12" numOctaves="2" seed="7" result="n"/>
+    <feDisplacementMap in="SourceGraphic" in2="n" scale="2.6" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+</svg>
+<div id="stage"></div>
+<script>
+const q = new URLSearchParams(location.search);
+const mode = q.get("mode") || "light";
+document.body.className = mode;
+
+const ARROW = '<svg viewBox="0 0 26 8" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linejoin="miter" aria-hidden="true"><path d="M0 4H24M20.5 .8 24 4l-3.5 3.2"/></svg>';
+const LABELS = {
+  assessment: "Get Your AI Assessment",
+  rumble: "Start with a Rumble",
+  cases: "Read the case studies",
+  roles: "View open roles",
+  website: "Visit augusto.digital",
+};
+const ICONS = {
+  finance: '<path d="M4 20V13M12 20V8M20 20V4"/>',
+  revenue: '<path d="M3 17l6-6 4 4 8-8M16 5h5v5"/>',
+  marketing: '<path d="M5 19a6 6 0 0 1 6-6M5 19a11 11 0 0 1 11-11M5 19a16 16 0 0 1 16-16"/>',
+  hr: '<circle cx="9.5" cy="12" r="5.2"/><circle cx="14.5" cy="12" r="5.2"/>',
+  operations: '<path d="M3 7h18v10H3zM9 7v10M15 7v10"/>',
+  company: '<path d="M4 4h16v16H4zM12 4v16M4 12h16"/>',
+  it: '<path d="M4 6h16v5H4zM4 14h16v5H4z"/>',
+  security: '<path d="M12 3.5l8 2.8v5.7c0 4.9-3.9 7.9-8 9-4.1-1.1-8-4.1-8-9V6.3z"/>',
+  engineering: '<path d="M9 8l-5 4 5 4M15 8l5 4-5 4"/>',
+};
+
+const stage = document.getElementById("stage");
+const img = q.get("img");
+if (img === "banner") {
+  stage.innerHTML =
+    '<div class="banner"><h1><span>Put AI to work</span> <span>for <span class="hl">your people.' +
+    '<svg class="hl-swash" viewBox="0 0 400 100" preserveAspectRatio="none" aria-hidden="true"><g filter="url(#f-rough)">' +
+    '<path d="M4 30 C 60 22, 180 26, 396 18 L 398 78 C 300 84, 120 80, 6 86 Z"/></g></svg></span></span></h1>' +
+    '<p class="for">For $50M - $1B+ Organizations</p></div>';
+} else if (img === "btn") {
+  const kind = q.get("kind") || "fill";
+  const hero = q.get("size") === "hero" ? " hero" : "";
+  stage.innerHTML = `<span class="btn ${kind}${hero}">${LABELS[q.get("label")]} ${ARROW}</span>`;
+} else if (img === "icon") {
+  stage.innerHTML = `<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">${ICONS[q.get("name")]}</svg>`;
+}
+
+// Report the stage's size once the faces have loaded; the render script
+// reads it from --dump-dom and sizes the screenshot window to match.
+document.fonts.ready.then(() => {
+  const r = stage.firstElementChild.getBoundingClientRect();
+  const pre = document.createElement("pre");
+  pre.id = "size";
+  pre.textContent = `${Math.ceil(r.width)} ${Math.ceil(r.height)}`;
+  document.body.appendChild(pre);
+});
+</script>
+</body>
+</html>
